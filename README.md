@@ -24,12 +24,6 @@ For someone to use the content on this repo ensure you have the following:
 
         code .
 
-
-
-
-
-
-
 # Running the application
 
 Running the application is very straight forward. You can use the following steps to run the app.
@@ -40,9 +34,16 @@ Running the application is very straight forward. You can use the following step
 - Run the application on the browser
 
       npm start
+
+## Technologies Used
+- JavaScript
+
 # Authors
 This project was contributed to by:
 - [Austin Obonyo](https://github.com/Austinjnr)
 
+## Contact Information
+Email: austin.obonyo@student.moringaschool.com
+
 # License
-The project is licensed under Apache 2.0.
+The project is licensed under ISC
