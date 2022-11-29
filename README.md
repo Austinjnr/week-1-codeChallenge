@@ -9,12 +9,26 @@ For someone to use the content on this repo ensure you have the following:
 - nodejs 9.0+
 
 ## Installation
-To use this repo on your console requires some simple steps:
+- To use this repo on your console requires some simple steps:
+- Open a terminal on your computer
+- Clone the repo by using the following:
 
-- Open the terminal on your computer
-- Clone the repo
-- Change directory to the new repo folder
-- Open it in VS Code.
+        git clone git@github.com:Austinjnr/week-1-codeChallenge.git
+
+- Be patient as it creates a copy on your local machine for you.
+- Change directory to the repo folder:
+
+        cd week-1-codeChallenge
+
+- Open it in ``Visual Studio Code``
+
+        code .
+
+
+
+
+
+
 
 # Running the application
 
